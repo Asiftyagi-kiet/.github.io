@@ -1,15 +1,16 @@
 
+body
+{
+  background-image: url(../image/lGIuo0.jpg);
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
  html {
       font-size: 62.5%;
       box-sizing: border-box;
     }
-    .background img
-    {
-    	width: 100%;
-     height:auto;
-    	min-height: 722px;
-    }
-
+   
    .blinking{
     animation:blinkingText 6.2s infinite;
     text-align: center;
